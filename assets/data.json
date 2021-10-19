@@ -1,0 +1,47 @@
+[
+    {
+      "savol": "1. What ___ your name?",
+      "javoblar": [
+        {"matn": "are", "togrimi": false},
+        {"matn": "am", "togrimi": false},
+        {"matn": "is", "togrimi": true},
+        {"matn": "I", "togrimi": false}
+      ]
+    },
+    {
+      "savol": "2. I am __ doctor",
+      "javoblar": [
+        {"matn": "are", "togrimi": false},
+        {"matn": "is", "togrimi": false},
+        {"matn": "a", "togrimi": true},
+        {"matn": "from", "togrimi": false}
+      ]
+    },
+    {
+      "savol": "3. This flowers ___ beatiful",
+      "javoblar": [
+        {"matn": "a", "togrimi": false},
+        {"matn": "is", "togrimi": false},
+        {"matn": "more", "togrimi": false},
+        {"matn": "are", "togrimi": true}
+      ]
+    },
+    {
+      "savol": "4. Where ___ you from?",
+      "javoblar": [
+        {"matn": "a", "togrimi": false},
+        {"matn": "is", "togrimi": false},
+        {"matn": "they", "togrimi": false},
+        {"matn": "are", "togrimi": true}
+      ]
+    },
+    {
+      "savol": "5. What ___ you do?",
+      "javoblar": [
+        {"matn": "are", "togrimi": false},
+        {"matn": "do", "togrimi": true},
+        {"matn": "is", "togrimi": false},
+        {"matn": "I", "togrimi": false}
+      ]
+    }
+]
