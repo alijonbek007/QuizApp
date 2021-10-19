@@ -12,120 +12,37 @@ Imtihon uchun yozgan dasturim.
 <img src="https://ibb.co/zRx5fn5"><img src="https://i.ibb.co/9TgvY8v/photo-2021-10-19-20-30-25.jpg"
      alt="Onboarding page"
      style="float: left; margin-right: 10px;" width="200" />
- ### User1 uchul Login Page
+### User1 uchun Login Page
  </br>
  </br>
  
  <img src="https://i.ibb.co/0qcPS5q/photo-2021-10-19-20-30-42.jpg"
      alt="Onboarding page"
      style="float: left; margin-right: 10px;" width="200"/>
- ### User2 uchul Login Page
+### User2 uchun Login Page
 
  </br>
  </br>
  
- <img src="https://i.ibb.co/tC1cnhM/4.jpg"
+ <img src="https://i.ibb.co/dGw13T4/photo-2021-10-19-20-30-52.jpg"
      alt="Onboarding page"
      style="float: left; margin-right: 10px;" width="200" />
- ### Login Page auth
+ ### Qura Tashlash Page
  </br>
  </br>
  
- <img src="https://i.ibb.co/9TTkbCb/5.jpg"
+ <img src="https://i.ibb.co/jv0k77X/photo-2021-10-19-20-31-01.jpg"
      alt="Onboarding page"
      style="float: left; margin-right: 10px;" width="200" />
- ### Onboarding page
+ ### O'yinni boshlash
  </br>
  </br>
  
-  <img src="https://i.ibb.co/gzw4R9y/6.jpg"
+  <img src="https://i.ibb.co/MGKtGZW/photo-2021-10-19-20-53-54.jpg""
      alt="Onboarding page"
      style="float: left; margin-right: 10px;" width="200" />
- ### Home Page
- </br>
- </br>
- 
- <img src="https://i.ibb.co/7VhW5hJ/7.jpg"
-     alt="Onboarding page"
-     style="float: left; margin-right: 10px;" width="200" />
- ### Cart Page
- </br>
- </br>
- 
-  <img src="https://i.ibb.co/gy8grvx/8.jpg"
-     alt="Onboarding page"
-     style="float: left; margin-right: 10px;" width="200" />
- ### Favourite Page
- </br>
- </br>
- 
- <img src="https://i.ibb.co/LPFxRZ9/9.jpg"
-     alt="Onboarding page"
-     style="float: left; margin-right: 10px;" width="200" />
- ### Chat page
- </br>
- </br>
- 
- <img src="https://i.ibb.co/XjBQQpS/10.jpg"
-     alt="Onboarding page"
-     style="float: left; margin-right: 10px;" width="200" />
- ### Profile Page 
- </br>
- </br>
- 
- <img src="https://i.ibb.co/FzMm6WG/11.jpg"
-     alt="Onboarding page"
-     style="float: left; margin-right: 10px;" width="200" />
- ### Comment Page
- </br>
- </br>
- 
-  <img src="https://i.ibb.co/ysybmXD/12.jpg"
-     alt="Onboarding page"
-     style="float: left; margin-right: 10px;" width="200" />
- ### Statistics Page
- </br>
- </br>
- 
- <img src="https://i.ibb.co/Gx5ZTTV/13.jpg"
-     alt="Onboarding page"
-     style="float: left; margin-right: 10px;" width="200" />
- ### Statistics Page 2
- </br>
- </br>
- 
-  <img src="https://i.ibb.co/wcDCTPK/14.jpg"
-     alt="Onboarding page"
-     style="float: left; margin-right: 10px;" width="200" />
- ### Calendar Page
- </br>
- </br>
-  
-  <img src="https://i.ibb.co/PgRqkW4/15.jpg"
-     alt="Onboarding page"
-     style="float: left; margin-right: 10px;" width="200" />
- ### Feed Page
- </br>
- </br>
-  
-  <img src="https://i.ibb.co/mrss9rt/16.jpg"
-     alt="Onboarding page"
-     style="float: left; margin-right: 10px;" width="200" />
- ### Feed Page 2
- </br>
- </br>
-  
-  <img src="https://i.ibb.co/HgCh77M/17.jpg"
-     alt="Onboarding page"
-     style="float: left; margin-right: 10px;" width="200" />
- ### Feed Page 3 
- </br>
- </br>
-  
-  <img src="https://i.ibb.co/6wRB5h0/18.jpg"
-     alt="Onboarding page"
-     style="float: left; margin-right: 10px;" width="200" />
- ### Feed Page 4
+ ### Natija
+
  </br>
  </br>
  
