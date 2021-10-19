@@ -5,10 +5,8 @@ Imtihon uchun yozgan dasturim.
 ## Dastur Haqida
 ### Dasturning ishlash holati 👇
 
-
 </br>
 </br>
-# Applicationda sahifalari rasmlarda: 
 <img src="https://ibb.co/zRx5fn5"><img src="https://i.ibb.co/9TgvY8v/photo-2021-10-19-20-30-25.jpg"
      alt="Onboarding page"
      style="float: left; margin-right: 10px;" width="200" />
@@ -38,7 +36,7 @@ Imtihon uchun yozgan dasturim.
  </br>
  </br>
  
-  <img src="https://i.ibb.co/MGKtGZW/photo-2021-10-19-20-53-54.jpg""
+  <img src="https://i.ibb.co/MGKtGZW/photo-2021-10-19-20-53-54.jpg"
      alt="Onboarding page"
      style="float: left; margin-right: 10px;" width="200" />
  ### Natija
