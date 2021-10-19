@@ -4,7 +4,6 @@ Imtihon uchun yozgan dasturim.
 
 ## Dastur Haqida
 ### Dasturning ishlash holati 👇
-
 </br>
 </br>
 <img src="https://ibb.co/zRx5fn5"><img src="https://i.ibb.co/9TgvY8v/photo-2021-10-19-20-30-25.jpg"
@@ -45,4 +44,4 @@ Imtihon uchun yozgan dasturim.
  </br>
  
  
- <a href="https://github.com/asadbekdev/marvie_app/blob/main/marvie.apk" download>Dasturni yuklab olish</a>
+ <a href="https://github.com/alijonbek007/QuizApp/blob/main/app-arm64-v8a-release.apk" download>Dasturni yuklab olish</a>
